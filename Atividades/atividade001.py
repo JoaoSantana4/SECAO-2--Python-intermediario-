@@ -1,4 +1,4 @@
-#riar uma função que multiplica os args não nomeados recebidos
+#Criar uma função que multiplica os args não nomeados recebidos
 #retorne o total para uma variável e mostre o valor dela
 
 
